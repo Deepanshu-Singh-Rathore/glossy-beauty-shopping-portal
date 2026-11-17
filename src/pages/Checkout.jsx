@@ -21,11 +21,11 @@ export default function Checkout() {
   const [formData, setFormData] = useState({
     fullName: 'Deepanshu Singh Rathore',
     email: 'deepanshu@example.com',
-    phone: '+91 98765 43210',
-    address: 'Flat 402, Radiant Heights, Link Road',
-    city: 'Mumbai',
-    state: 'Maharashtra',
-    pincode: '400053'
+    phone: '+91 1234567890',
+    address: 'india',
+    city: 'india',
+    state: 'India',
+    pincode: '110001'
   });
 
   const [paymentMethod, setPaymentMethod] = useState('upi');

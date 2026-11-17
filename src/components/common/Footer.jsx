@@ -145,8 +145,8 @@ export default function Footer() {
               Your premium destination for clean, biocompatible skincare, radiant cosmetics, and restorative botanical haircare. Formulated with clinical actives for visible results.
             </p>
             <div style={{ fontSize: '0.82rem', color: '#6B7280' }}>
-              📍 Mumbai, Maharashtra, India<br />
-              ✉️ care@glossybeauty.in | 📞 +91 1800 234 5678
+              📍 india, India<br />
+              ✉️ care@glossybeauty.in | 📞 +91 1234567890
             </div>
           </div>
 
